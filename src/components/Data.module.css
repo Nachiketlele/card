@@ -1,0 +1,50 @@
+.parent{
+    width: 620px;
+    height: 370px;
+    /* border: 1px solid black; */
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f6be00;
+}
+.div{
+    /* border: 1px solid teal; */
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    width: 100px;
+    border-radius: 120px;
+   
+}
+.container{
+    width: 100%;
+    height: max-content;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+}
+.icons{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+.p{
+    font-size: 24px;
+}
+i{
+    font-size: 30px;
+    margin-right: 20px;
+}
+.ps{
+    font-size: 20px;
+    font-weight: bold;
+}
